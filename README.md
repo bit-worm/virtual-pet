@@ -1,5 +1,15 @@
 # 🐕 Virtual Pet
 
-# Demo
+# Installation
 
-https://github.com/bit-worm/assets-repo/blob/main/plp-pet-asstets/pet.mp4
+```
+git clone https://github.com/bit-worm/virtual-pet.git \
+&& \
+cd virtal-pet
+```
+
+Running
+
+```
+python main.py
+```
