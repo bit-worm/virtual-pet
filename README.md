@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/bit-worm/virtual-pet.git \
 && \
-cd virtal-pet
+cd virtual-pet
 ```
 
 Running
