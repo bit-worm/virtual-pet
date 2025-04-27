@@ -2,4 +2,4 @@
 
 # Demo
 
-[![Watch the video](https://raw.githubusercontent.com/bit-worm/virtual-pet/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/bit-worm/virtual-pet/main/assets/pet.mp4)
+https://github.com/bit-worm/assets-repo/blob/main/plp-pet-asstets/pet.mp4
