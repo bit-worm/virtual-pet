@@ -2,4 +2,4 @@
 
 # Demo
 
-[pet.mp4]
+(https://raw.githubusercontent.com/bit-worm/virtual-pet/main/assets/pet.mp4)
